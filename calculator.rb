@@ -1,4 +1,3 @@
 # Add your variables here
 
-
-num = 9 
+first_number = 9 
