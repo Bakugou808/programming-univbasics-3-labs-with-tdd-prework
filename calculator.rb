@@ -1,3 +1,5 @@
 # Add your variables here
 
-def calculator()
+def calculator(num)
+  
+end 
